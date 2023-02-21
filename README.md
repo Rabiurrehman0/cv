@@ -1,1 +1,71 @@
 # cv
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>CV</title>
+</head>
+<body>
+    <center><h1><b><i><u>MY CV</u></i></b></h1></center>
+    <br />
+    <img src="30.jpg" width="220" hspace="20" align="left" />
+    <u><h2>RABI-UR-REHMAN</h2>
+    <h3>ABDUL-REHMAN</h3>
+    <h3>WEB DEVELOPER</h3>
+    <h3>KARACHI- PAKISTAN</h3>
+    <h3><a href="ZOJEEARSAL@gmail.com">ZOJEEARSAL@gmail.com</a></h3>
+    <h3>0318-2889491</h3>
+<h3>D10/4 FIRDOUSE COLONY NAZIMABAD GULBAHAR KARACHI</h3></u>
+    <hr/>
+
+    <h2><u>PROFILE:</u>
+    </h2>
+    <h3>
+        <p> i am a web Developer with exxperience in database Administration and website design.</p> 
+            <p>strong creative and analytical skills.</p>
+           <p>team player with an eye for detial. </p>
+    </h3>
+    <h2><u>ACADMIC QUALIFICATION</u></h2>
+    <table border="1" width="1000">
+        <tr>
+            <th>Qualification</th>
+            <th>university</th>
+            <th>School</th>
+            <th>Years of passing</th>
+            <th>GRADE</th>
+        </tr>
+        <tr>
+            <td>Matric</td>
+            <td>----------</td>
+            <td>MADARSA TUL BANAT</td>
+            <td>2015</td>
+            <td>A+</td>
+        </tr>
+        <tr>
+            <td>Diploma</td>
+            <td>----------</td>
+            <td>GOVT.TECHNICAL WOMEN COLLEGE</td>
+            <td>2020</td>
+            <td>A+</td>
+        </tr>
+        <tr>
+            <td>Under-Graduate</td>
+            <td>SMIU</td>
+            <td>----------</td>
+            <td>CONTINUED</td>
+            <td>----------</td>
+        </tr>
+
+    </table>
+    <h2><u>Skills</u></h2>
+       <B> <P>1.WEB-Development</P>
+        <P>2.Web-Designing</P>
+        <P>3.DataBase Administration</P></B>
+    
+    <h2><u>Experience</u></h2>
+    <B> <P>1 year Experience in teaching</P>
+        <P>6 month Experience in IT office</P>
+        <P>compelete ms-excle</P></B>
+    <hr/>
+</body>
+</html>
